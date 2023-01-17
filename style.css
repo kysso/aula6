@@ -1,0 +1,16 @@
+.x{
+color: #0077b6;
+}
+
+
+div.z{
+    background-color: bisque;
+    margin: 200px;
+    width: 900px;
+    margin-left: 500px;
+    border: black 3px ridge;
+}
+
+.y{
+    color: red;
+}
